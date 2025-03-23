@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: home
+Label: home-server
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: Personal apt repo
+Date: Sun, 23 Mar 2025 03:15:03 +0000
+MD5Sum:
+ 36f8b9e7bee2aa2e255e89b1dab95d46 3139 stable/main/binary-amd64/Packages
+ ef5245c1a3ff83f9b9c51b65f411cd47 1411 stable/main/binary-amd64/Packages.gz
+ 62b5e95fad06d24178c7ae05d1b75150 701 stable/Release
+SHA1:
+ 637237e906e9ac9c6d9026e7550e513bdd1028fd 3139 stable/main/binary-amd64/Packages
+ 8d7c7994d00305ce5a2e64b85fe7f9fc2d9cb7f7 1411 stable/main/binary-amd64/Packages.gz
+ 7fe7ac0ec8849c5135aaf676d6cfce114eb5acd3 701 stable/Release
+SHA256:
+ 78362852b5df660696145dd1cc3a4e433aef9eb2e1ea0afc385a28972a13e77a 3139 stable/main/binary-amd64/Packages
+ ec40a5cdd6e0a109d1f863ab70d5b0c80e5f67f74755b05368ddc4aa134966ba 1411 stable/main/binary-amd64/Packages.gz
+ 205b96bde728e370bb09efe162d7660fa2853f866371e11f2ef5b425370bbdf9 701 stable/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJSBAEBCgA8FiEE4MMh8RvkWf+0W6tKbYffkqcZSi0FAmfgIjEeHG1pY2hhZWxs
+ZWVzY2hhZWNoZXJAZ21haWwuY29tAAoJEG2H35KnGUotjCQP/1l04dc5vHOxN5za
+sELtFTQVbq+lqzG2kfxSNetpuT59lt4MZnV28sVKvJm2H56cxZeJbuYeeniC/uZ8
+n8y0A5ocvbshtnWuvsJCIBZwNHdKN0LqARTZDsVHFc/6oWfh+YtdIqXyzMiAM7fc
+DpnPkN10fV1I7TsTuGhP4VT4SBYS7a44U6SEpr+xXyLqlsYjutbLc6tJEVjtuPts
+BEPNyJbpQxBRZzuic48L6v2eB4wyPHTw4Dwc+VVADqYmUQe9HWe+u5WhHumeViYR
+c7xrNglkBiznZDKK3p9GYbCJhlRAoeIaUlKI9XFuBX+W/0B/JL2onTMrPgubd2dV
+RHkVbuJx5yJmMCQ13ZOm7uxgxB5Kf6J2sncF7HphSj+LnL/YvgQKFtpVav+6G6L4
+Y+k5EUC5O/zh84H6bQwvsN3vuysBRND4uwItopqkofMkADLPnWYEfa6ZU5EjE+CM
+y6VDShtbu1y54NtTvwCSl9fxMPV4DFBYyMdtxFDTbyriKxWmC3uij0fg6pjjHMFn
+Af4vKStHJUpI9xThm0gv9KgXiLG5pmSnZtKGhNoG4zrEQVLaHWJhGsnTXxA4aQYY
+fPXYzmDQK56jkJy21UUqCGoMC2e07dcabZo1KiofVne0rgaQNrJefZKaYy5REs7P
+cMjCVIJr7nlHqjVosxL9nCUoZO34
+=47qs
+-----END PGP SIGNATURE-----
