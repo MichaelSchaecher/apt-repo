@@ -4,5 +4,6 @@
     </strong>
 </div>
 
-[dists](./dists/)
-[pool](./pool/)
+[dists](https://github.com/MichaelSchaecher/apt-repo/tree/main/dists)
+
+[pool](https://github.com/MichaelSchaecher/apt-repo/tree/main/dists)
