@@ -3,3 +3,6 @@
         <h1>Debian/Ubuntu repository for my projects</h1>
     </strong>
 </div>
+
+[dists](./dists/)
+[pool](./pool/)
