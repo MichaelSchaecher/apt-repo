@@ -1,0 +1,87 @@
+Package: btrfs-snapshots-manager
+Version: 25.03.6-2005
+Architecture: all
+Maintainer: Michael Schaecher <mschaecher78@gmail.com>
+Depends: btrfs-progs
+Filename: pool/main/b/btrfs-snapshots-manager/btrfs-snapshots-manager_25.03.6-2005_all.deb
+Size: 5318
+MD5sum: 38f2355cfca48b78647751be8ecad895
+SHA1: 86eb622571b957d1d4506481b79bf1e734983a57
+SHA256: 60c94c30591c68cbce389743a99ade08ad63405e8d1867269077067cfb9c29d9
+Section: utils
+Priority: optional
+Homepage: https://github.com/MichaelSchaecher/beetree
+Description: BTRFS Snapshots Manager
+  Manage btrfs snapshots with ease and with the help of apt configuration
+  a snapshot is created before changes are made to the system using apt.
+Build-Depends: make
+
+Package: ddns
+Version: 25.03.11-1036
+Architecture: all
+Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
+Depends: jq, curl
+Filename: pool/main/d/ddns/ddns_25.03.11-1036_all.deb
+Size: 10428
+MD5sum: 5a49c7d843bb338cfa5c923a979b46c2
+SHA1: aa9d18cf2b0894a1117cf4a79a07f062119ad9cf
+SHA256: 5eafc5da66456df5c56f69f9b96b66323edb81b008a5c45a0926abddd89769a5
+Section: utils
+Priority: optional
+Homepage: https://github.com/MichaelSchaecher/ddns
+Description: Dynamic DNS update script
+  A simple script to update DNS records for DuckDNS.org and CloudFlare.com
+Build-Depends: debhelper (>= 9), make
+
+Package: grub-theme-minimal
+Version: 1.0.46-0
+Architecture: all
+Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
+Depends: grub2-common, grub-pc, grub-common
+Filename: pool/main/g/grub-theme-miminal/grub-theme-minimal_1.0.46-0_all.deb
+Size: 172160
+MD5sum: c69337dbf39a93cdc796f54f7e092ef0
+SHA1: c666bfc14c724e7c890500070cb1286112197ef9
+SHA256: 814fdf9ff89dadb490dff5547f5019622c5f5dc203a5579a627a17e2a7581834
+Section: boot
+Priority: optional
+Description: Minimal GRUB theme
+ A minimal GRUB theme designed to keep the boot process simple and fast.
+
+Package: hello-world
+Version: 1.0.1
+Architecture: amd64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/h/hello-world/hello-world_1.0.1-1_amd64.deb
+Size: 2556
+MD5sum: c9b6a13ec70bb2f58d52a3f9399a9c6b
+SHA1: c4d2cd2a48414606ca84fa5d645ed18ef9006467
+SHA256: f77b717610f46d1aeedb9e1b232ec79d6ea3d865ec7c7057db2e15aaa95810f7
+Homepage: http://example.com
+Description: A program that prints hello
+
+Package: simple-zram
+Source: https://github.com/MichaelSchaecher/simple-zram
+Version: 25.03.0-0758
+Architecture: all
+Maintainer: Michael Schaecher <michaelleeschaeceher@gmail.com>
+Installed-Size: 40960
+Depends: bash, coreutils, awk, util-linux
+Filename: pool/main/s/simple-zram/simple-zram_25.03.0-0758_all.deb
+Size: 4144
+MD5sum: 5f50f6274e3f12ca9f47dcb2ab931e82
+SHA1: 0edb7369337073619d44d0e97d38df5cd9de582e
+SHA256: ce5efc02c3b4984e7ac6d450a9e0af18aa1441accc9d9c80e86304ae269f4334
+Section: utils
+Priority: optional
+Homepage: https://hotonebie.com
+Description: Create and enable zram swap devices
+    This package provides a simple script to create and enable zram swap devices.
+Build-Depends: make
+Copyright: 2024 Michael Schaecher
+Files: *
+License: MIT
+    Permission is hereby granted, free of charge...
+Require: systemd, cureutils, awk, util-linux
+

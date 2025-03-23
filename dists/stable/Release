@@ -1,0 +1,21 @@
+Origin: home
+Label: home-server
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: Personal apt repo
+Date: Sun, 23 Mar 2025 03:15:03 +0000
+MD5Sum:
+ 36f8b9e7bee2aa2e255e89b1dab95d46 3139 stable/main/binary-amd64/Packages
+ ef5245c1a3ff83f9b9c51b65f411cd47 1411 stable/main/binary-amd64/Packages.gz
+ 62b5e95fad06d24178c7ae05d1b75150 701 stable/Release
+SHA1:
+ 637237e906e9ac9c6d9026e7550e513bdd1028fd 3139 stable/main/binary-amd64/Packages
+ 8d7c7994d00305ce5a2e64b85fe7f9fc2d9cb7f7 1411 stable/main/binary-amd64/Packages.gz
+ 7fe7ac0ec8849c5135aaf676d6cfce114eb5acd3 701 stable/Release
+SHA256:
+ 78362852b5df660696145dd1cc3a4e433aef9eb2e1ea0afc385a28972a13e77a 3139 stable/main/binary-amd64/Packages
+ ec40a5cdd6e0a109d1f863ab70d5b0c80e5f67f74755b05368ddc4aa134966ba 1411 stable/main/binary-amd64/Packages.gz
+ 205b96bde728e370bb09efe162d7660fa2853f866371e11f2ef5b425370bbdf9 701 stable/Release
