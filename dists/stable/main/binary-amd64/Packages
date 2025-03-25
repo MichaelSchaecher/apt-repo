@@ -33,6 +33,23 @@ Description: Dynamic DNS update script
   A simple script to update DNS records for DuckDNS.org and CloudFlare.com
 Build-Depends: debhelper (>= 9), make
 
+Package: dpkg-changelog
+Version: 25.03.11-2011
+Architecture: amd64
+Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
+Installed-Size: 12
+Depends: bash, coreutils, dpkg
+Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.11-2011_amd64.deb
+Size: 3320
+MD5sum: df21f3645053fb6edecb3afaede146df
+SHA1: 89312e64a60254e1e0946efaeab8a978af42f9a4
+SHA256: 11f178beb9ac6120ae7a2b30abd0e765b38c193a2772b8ccf4f8bea3c42dca10
+Section: utils
+Priority: optional
+Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
+Description: Change log generator from git commits log for debian packages
+Build-Depends: bash, coreutils, dpkg debhelper (>= 9), make
+
 Package: grub-theme-minimal
 Version: 1.0.46-0
 Architecture: all
