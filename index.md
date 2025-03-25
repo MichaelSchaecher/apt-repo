@@ -35,4 +35,4 @@ The following packages are available in the repository:
 - [ddns](https://github.com/MichaelSchaecher/ddns): A simple script used to update the IP address of a domain name on Cloudflare or DuckDNS.
 - [btrfs-snapshots-manager](https://github.com/MichaelSchaecher/btrfs-snapshots-manager): A tool to manage btrfs snapshots.
 - [grub-theme-minimal](https://github.com/MichaelSchaecher/grub-theme-minimal): A minimalistic yet stylish grub theme.
-- [dpkg-changelog]([https://https://github.com/MichaelSchaecher/dpkg-changelog): Generate a changelog for a debian package.
+- [dpkg-changelog](https://https://github.com/MichaelSchaecher/dpkg-changelog): Generate a changelog for a debian package.
