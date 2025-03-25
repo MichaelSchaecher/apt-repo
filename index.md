@@ -16,7 +16,7 @@ sudo tee /etc/apt/sources.list.d/howtonebie.list
 After adding the repository, you need to add the repository key to your keyring. This can be done by running the following command:
 
 ```bash
-wget -qO - https://michaelschaecher.github.io/apt-repo/howtonebie.gpg |
+wget -qO - https://raw.githubusercontent.com/MichaelSchaecher/apt-repo/refs/heads/main/signed/howtonebie.gpg |
 gpg --dearmor | sudo dd of=/usr/share/keyrings/howtonebie.gpg
 ```
 
