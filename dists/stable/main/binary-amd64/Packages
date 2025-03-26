@@ -36,21 +36,22 @@ Description: Dynamic DNS update script
 Build-Depends: debhelper (>= 9), make
 
 Package: dpkg-changelog
-Version: 25.03.11-2011
+Version: 25.03.12-0456
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
-Installed-Size: 12
-Depends: bash, coreutils, dpkg
-Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.11-2011_amd64.deb
-Size: 3320
-MD5sum: df21f3645053fb6edecb3afaede146df
-SHA1: 89312e64a60254e1e0946efaeab8a978af42f9a4
-SHA256: 11f178beb9ac6120ae7a2b30abd0e765b38c193a2772b8ccf4f8bea3c42dca10
+Installed-Size: 16
+Depends: dpkg-dev, git, dpkg-release
+Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-0456_amd64.deb
+Size: 3042
+MD5sum: 85467ba53a8bf17b7c8bb2842597ada3
+SHA1: 6d166eee11f1e51fe6273b41f52e31cfac25a2e9
+SHA256: 35304c509b15eb8309e69aab5e25f4af22733fd24894a3482761a8b3fb287531
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
-Description: Change log generator from git commits log for debian packages
-Build-Depends: bash, coreutils, dpkg debhelper (>= 9), make
+Description: Debian style changelog generator from
+    a git repository. Making it easier to build your Debian apt packages.
+Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev, dpkg-release
 
 Package: grub-theme-minimal
 Version: 1.0.46-0

@@ -6,16 +6,16 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Personal apt repo
-Date: Tue, 25 Mar 2025 22:13:15 +0000
+Date: Wed, 26 Mar 2025 11:04:50 +0000
 MD5Sum:
- 589ffbadbe592909eea57cd483f7caa6 4033 main/binary-amd64/Packages
- 2ebc302cd915048d1af2468ebb5e607f 1679 main/binary-amd64/Packages.gz
- 9c502344bd643d2e895a28b9ce66a404 1720 main/binary-amd64/Packages.xz
+ 0394110f58358c135df04998d3ca51e8 4106 main/binary-amd64/Packages
+ 6d310ed49da80787d1d6eb608f61900d 1724 main/binary-amd64/Packages.gz
+ 118bdeafcbfd89f2de9c69dfd18776bc 1764 main/binary-amd64/Packages.xz
 SHA1:
- 0a79667047637891f6339de71468760e2fe57e54 4033 main/binary-amd64/Packages
- 5c7fdec89b05a18522f2483aa92964097d36d0c4 1679 main/binary-amd64/Packages.gz
- b31bf983177ce16e71c482357c03e85dcb00abd1 1720 main/binary-amd64/Packages.xz
+ b428209bf2cfacc036235ae4e3679d5a9fd48eee 4106 main/binary-amd64/Packages
+ 9c2073c4fb74f02cb4f002590eb54ec6114f0ab2 1724 main/binary-amd64/Packages.gz
+ a8d53a4c687ce87d8ec7127569b02d40c73e9d61 1764 main/binary-amd64/Packages.xz
 SHA256:
- f402bf7231671b920ea4fc44892779368f4f39430bfda7dd17440ab925a6903e 4033 main/binary-amd64/Packages
- 5e93831ba24c439fbe870fd72a75e4721e14a8a3a4396811d518bb84865d3631 1679 main/binary-amd64/Packages.gz
- f17dcc3961f8b88f045531c2e064744f2b9b7536c33a1efb9e620d54c7bf687d 1720 main/binary-amd64/Packages.xz
+ 7a22da66cfc644283fe7dab34b432478e6407ff18ba5bf0db121d66172f20f08 4106 main/binary-amd64/Packages
+ 9db5d559537881b7806c89f43244632e63b48c8f44184f984e25a0a86c5802c6 1724 main/binary-amd64/Packages.gz
+ 4d3084845c49934c3025abc0530feff55b8ef4581943ec84ebb1416f8089291a 1764 main/binary-amd64/Packages.xz
