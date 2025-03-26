@@ -9,15 +9,15 @@ Over the years I have developed a number of tools and scripts that have been use
 To install the repository, you need to add the repository to your apt sources. This can be done by adding the following line to your `/etc/apt/sources.list.d/howtonebie.list` file:
 
 ```bash
-echo "deb [arch=amd64 signed-by=/usr/share/keyrings/howtonebie.gpg] https://michaelschaecher.github.io/apt-repo stable main" |
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/HowToNebie.gpg] https://michaelschaecher.github.io/apt-repo stable main" |
 sudo tee /etc/apt/sources.list.d/howtonebie.list
 ```
 
 After adding the repository, you need to add the repository key to your keyring. This can be done by running the following command:
 
 ```bash
-wget -qO - https://raw.githubusercontent.com/MichaelSchaecher/apt-repo/refs/heads/main/signed/howtonebie.gpg |
-gpg --dearmor | sudo dd of=/usr/share/keyrings/howtonebie.gpg
+wget -qO - https://raw.githubusercontent.com/MichaelSchaecher/apt-repo/refs/heads/main/key/HowToNebie.gpg |
+gpg --dearmor | sudo dd of=/usr/share/keyrings/HowToNebie.gpg
 ```
 
 Once that is done update your package list and install the package simple-zram:
