@@ -36,16 +36,16 @@ Description: Dynamic DNS update script
 Build-Depends: debhelper (>= 9), make
 
 Package: dpkg-changelog
-Version: 25.03.12-0622
+Version: 25.03.12-1023
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
-Installed-Size: 12
+Installed-Size: 16
 Depends: dpkg-dev, git
-Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-0622_amd64.deb
-Size: 3186
-MD5sum: 46a92fef80bdb19036f10ae1e7515fa8
-SHA1: 29bdb0ce6860a0763fb55b5063c0ba72a683b2a3
-SHA256: 5875227339e31d056ad0b9b75dec5ee6ed792f084c652863923ba69800bcbba4
+Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-1023_amd64.deb
+Size: 3266
+MD5sum: 4c9831ea7ae0681f792c66d55a3f932e
+SHA1: 2be4747e2c83ff5fe8ec6fd909e02063e73d10f8
+SHA256: 5a65d8bf8eeb17ed612fcee0f8b1a8695e6c891cc403a1171ec469e66852a5da
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
