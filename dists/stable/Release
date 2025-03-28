@@ -1,21 +1,21 @@
-Origin: home
-Label: home-server
+Origin: apt-repo
+Label: default
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
-Description: Personal apt repo
-Date: Wed, 26 Mar 2025 11:04:50 +0000
+Description: Repository for the apt-repo project
+date: Fri, 28 Mar 2025 12:27:37 +0000
 MD5Sum:
- 0394110f58358c135df04998d3ca51e8 4106 main/binary-amd64/Packages
- 6d310ed49da80787d1d6eb608f61900d 1724 main/binary-amd64/Packages.gz
- 118bdeafcbfd89f2de9c69dfd18776bc 1764 main/binary-amd64/Packages.xz
+ 1d65e1a99d20d4e37cf370e832fefba9 4078 main/binary-amd64/Packages
+ 0e0852f936b1a4228ef0874cdce70200 1713 main/binary-amd64/Packages.gz
+ fb9f387b6187d94fdd9f5ca972535859 1752 main/binary-amd64/Packages.xz
 SHA1:
- b428209bf2cfacc036235ae4e3679d5a9fd48eee 4106 main/binary-amd64/Packages
- 9c2073c4fb74f02cb4f002590eb54ec6114f0ab2 1724 main/binary-amd64/Packages.gz
- a8d53a4c687ce87d8ec7127569b02d40c73e9d61 1764 main/binary-amd64/Packages.xz
+ 03ecf6587353de9ed1d2789d851baa2f25330732 4078 main/binary-amd64/Packages
+ 414fcb94aaaf9f19e5957a6dd4b1b74cd4134ae2 1713 main/binary-amd64/Packages.gz
+ b96a5509b56e2278f1558bec81efb783c2ea8d0d 1752 main/binary-amd64/Packages.xz
 SHA256:
- 7a22da66cfc644283fe7dab34b432478e6407ff18ba5bf0db121d66172f20f08 4106 main/binary-amd64/Packages
- 9db5d559537881b7806c89f43244632e63b48c8f44184f984e25a0a86c5802c6 1724 main/binary-amd64/Packages.gz
- 4d3084845c49934c3025abc0530feff55b8ef4581943ec84ebb1416f8089291a 1764 main/binary-amd64/Packages.xz
+ 2a42971c3fd788061c9cb87042ffc059f104afde4099527f42dbd248952380ab 4078 main/binary-amd64/Packages
+ 3003032f9891124b397b0f4ad2ca2cb12817b87377fe5a3f1dbe5da237f48b0d 1713 main/binary-amd64/Packages.gz
+ 1130883abff8c4b94e910c1522a29475b53c8c37cb08604fc1f6b37756d19f8f 1752 main/binary-amd64/Packages.xz

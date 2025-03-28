@@ -1,41 +1,41 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: home
-Label: home-server
+Origin: apt-repo
+Label: default
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
-Description: Personal apt repo
-Date: Wed, 26 Mar 2025 11:04:50 +0000
+Description: Repository for the apt-repo project
+date: Fri, 28 Mar 2025 12:27:37 +0000
 MD5Sum:
- 0394110f58358c135df04998d3ca51e8 4106 main/binary-amd64/Packages
- 6d310ed49da80787d1d6eb608f61900d 1724 main/binary-amd64/Packages.gz
- 118bdeafcbfd89f2de9c69dfd18776bc 1764 main/binary-amd64/Packages.xz
+ 1d65e1a99d20d4e37cf370e832fefba9 4078 main/binary-amd64/Packages
+ 0e0852f936b1a4228ef0874cdce70200 1713 main/binary-amd64/Packages.gz
+ fb9f387b6187d94fdd9f5ca972535859 1752 main/binary-amd64/Packages.xz
 SHA1:
- b428209bf2cfacc036235ae4e3679d5a9fd48eee 4106 main/binary-amd64/Packages
- 9c2073c4fb74f02cb4f002590eb54ec6114f0ab2 1724 main/binary-amd64/Packages.gz
- a8d53a4c687ce87d8ec7127569b02d40c73e9d61 1764 main/binary-amd64/Packages.xz
+ 03ecf6587353de9ed1d2789d851baa2f25330732 4078 main/binary-amd64/Packages
+ 414fcb94aaaf9f19e5957a6dd4b1b74cd4134ae2 1713 main/binary-amd64/Packages.gz
+ b96a5509b56e2278f1558bec81efb783c2ea8d0d 1752 main/binary-amd64/Packages.xz
 SHA256:
- 7a22da66cfc644283fe7dab34b432478e6407ff18ba5bf0db121d66172f20f08 4106 main/binary-amd64/Packages
- 9db5d559537881b7806c89f43244632e63b48c8f44184f984e25a0a86c5802c6 1724 main/binary-amd64/Packages.gz
- 4d3084845c49934c3025abc0530feff55b8ef4581943ec84ebb1416f8089291a 1764 main/binary-amd64/Packages.xz
+ 2a42971c3fd788061c9cb87042ffc059f104afde4099527f42dbd248952380ab 4078 main/binary-amd64/Packages
+ 3003032f9891124b397b0f4ad2ca2cb12817b87377fe5a3f1dbe5da237f48b0d 1713 main/binary-amd64/Packages.gz
+ 1130883abff8c4b94e910c1522a29475b53c8c37cb08604fc1f6b37756d19f8f 1752 main/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQJSBAEBCgA8FiEE4MMh8RvkWf+0W6tKbYffkqcZSi0FAmfj31IeHG1pY2hhZWxs
-ZWVzY2hhZWNoZXJAZ21haWwuY29tAAoJEG2H35KnGUotaSMQAJrSY4Da3+ix4OA0
-SN+/ljmsZ9hx4Rkj42ufFlAIzy+kPls27VC1SIunHD4uJ/qfewvoH6iY1rGIIdUU
-HGGScvdVd59dwBBIDqKeGP+wBZPC3UrP7NnoM3pbDXO86AoFkZVpqIvcGR9Ff5ju
-jmMgnvtXlA7kLRVw/MBLHbsDtrC8K17qhag3Y6kjvhvU3Yv7IuKSJRfTAK1e5x0v
-7qXZdFgbrP5UC5hE3BCp/0VJ0uy3H27NURqFgEk4f6Z/KXVJQMrmLk07tLAEP1Dh
-k+OSQ+3+rI5gqv4JPfoYB/qVQbTwvUYt5VicqNbafkjfTdSA4kZaRxTytJCx6ukr
-5/JCeo2osJ68x2kdjbIsGHhIhHnmW8lLg4X2KCGTMpt2R/gGtij/qfHnMxqe7xE3
-F7D8O8qqzJAg2onGNK+TEEremuVJLMCVTLbTIGxkWx4mqjLHMC4XeV1QAMLjWY2s
-v4vlFRsmjiCrNsUExwar+lLdHl1pzCaSnIgR7CUFjHDOxBL62kd/qHUQZoIn6o1S
-6Mr0K7Irt/KcThA8oVH1tD2BCh1EpBJ3Kr3Mb63SRnLyNjZr/CT6HqdRRP3kR1gB
-FHBX6GDM4k+Zv2AIJ6VkSDbnF1iXz/5kQKXLq76zhcEZF10w2/xrESi4207IAFIB
-mGxbXt/zsx2ON2C9Ksb5L08Ue2pR
-=31P2
+iQJSBAEBCgA8FiEE4MMh8RvkWf+0W6tKbYffkqcZSi0FAmfmlbkeHG1pY2hhZWxs
+ZWVzY2hhZWNoZXJAZ21haWwuY29tAAoJEG2H35KnGUotJ7oQAISMPuNwlGWZRx1Q
+esbRC+Au0Y3qB8aRf6UYxv3pZu8iaHHR17eNY823ASO8bYUOmSGONGilUoVS1mAK
+P2KvgAQB5J9Uo3RqlCSy56Te/PkRWj9PeQGt14jGTUWe9lt6GDREs740p3Bp2wRA
+nBUV0lf/dkYgAny50GAF4EPPlEcL0+T6Y/WTNItrE4N1m0svJcpMo8nf7Hi5LXnk
+IJAzxpGKShXIRO+KOvxtHiwpzdziNYiYqzzR9exbad5gatK5yPXhfaFS3+GOI/nu
+g+Pd7xmof5Ntxv7/jbOy3U8HUWrGhJ3oYN02AT4kGVDu8u1Xzop8syEt4RimZzeu
+ub/SDfTyv3nO+Qiht+o32ppzBCMDr26zCgZW9gPKDUXJTE/n8QGXlX6qtcR3LqZ6
+PvrYtydjb2piap9/dBuG4w6RoC41p4MWxw161tOmoD0bAhUpiwnv7Tn5JmQOtg8h
+lyLmYxEm//UDWaA/8hN4rGfRsA2FVd/eQ1+7TwQ9W4YMLVjNcE039VPTiZDApOMK
+wB+rozi0nURAR0ZqgedprTu1tJpPvnDNEbnJBWQyZsK5sTFVtcD394MSWGetevMn
+TvN09Ooz2rgWUYyBBtEuw8/sEigdmTY0ggjdWsWYFLkG2kob+jrB1Y2DUr2z4pyV
+ZSogrbDQkOZZqCrtWdKUIw/jrqjt
+=xad4
 -----END PGP SIGNATURE-----
