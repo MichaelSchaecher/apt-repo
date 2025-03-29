@@ -3,19 +3,19 @@ Label: default
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: amd64
 Components: main
 Description: Repository for the apt-repo project
-date: Fri, 28 Mar 2025 17:20:28 +0000
+date: Sat, 29 Mar 2025 00:25:34 +0000
 MD5Sum:
- bac88343501236c2b5e9eb7d55fde9c7 4803 main/binary-amd64/Packages
- f8aa4d6097a693eabf4e11fc646aaec0 1939 main/binary-amd64/Packages.gz
- d388b4e8e71ba562f86b0d933a251d2d 1960 main/binary-amd64/Packages.xz
+ eef6b906e1d74300946e9e99aee6e95b 4749 main/binary-amd64/Packages
+ 19e80de1272f6b4dd72b76ed11313794 1928 main/binary-amd64/Packages.gz
+ 22ee7ae943c48ec16fc9355340cb3daf 1952 main/binary-amd64/Packages.xz
 SHA1:
- 50a1c88091ff24adfcac4a3d82bb4a245ffa8256 4803 main/binary-amd64/Packages
- 64da61f91ac050e949efcfb9b107d31031af8ec0 1939 main/binary-amd64/Packages.gz
- a9d7976752ced9ea965c8ebccc6e64eda7f92210 1960 main/binary-amd64/Packages.xz
+ 91afefbf5765f55d04a6b2732a47d9050a833689 4749 main/binary-amd64/Packages
+ 12298fe32130bf31c4e211af1284e3adb45eb9bb 1928 main/binary-amd64/Packages.gz
+ b6d1d3c0ebb2c63dd8b239e59c4d271791c78475 1952 main/binary-amd64/Packages.xz
 SHA256:
- ff2c91d62d62ba7bbc46ec2eaf486ccf748911f72f1506564076a039ed098960 4803 main/binary-amd64/Packages
- 13a5f5168623c79fca9d49c7eacf1e677f6e9e6693b05b9b7795daa16edcf7cd 1939 main/binary-amd64/Packages.gz
- 1a956c1b6ba77e64e369d0df7537232fc92aed515cece54640f4954f1319051f 1960 main/binary-amd64/Packages.xz
+ d8e35bd557e87bac8b8053e32c34cbfa65f9e96a7d69f897e2af50ec1556e989 4749 main/binary-amd64/Packages
+ 623c4dc881ade86dda08f3758c6785803aeca683069c4e8ebc48119b8670f35e 1928 main/binary-amd64/Packages.gz
+ 1e34b943d59920b6131848ac19709794647b5c4c42285714c2444cc389608a03 1952 main/binary-amd64/Packages.xz

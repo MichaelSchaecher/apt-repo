@@ -2,21 +2,21 @@ Package: btrfs-snapshots-manager
 Version: 25.03.12-1218
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
-Installed-Size: 24
+Installed-Size: 28
 Depends: btrfs-progs, bash (>= 4.4), coreutils, systemd
 Filename: pool/main/b/btrfs-snapshots-manager/btrfs-snapshots-manager_25.03.12-1218_amd64.deb
-Size: 5832
-MD5sum: 45bdf368ee42142eb34d8a74f791d6cd
-SHA1: ea3a647053db48acefbd92f4b194049b98479dcf
-SHA256: 5c57f9810eab4c5100e30d583fcc8eaa3b6a8e3cce2b51ac860d95621c3818f3
+Size: 5898
+MD5sum: 1c562cdde271f55977210bda6017f7df
+SHA1: 717ba622f242e1af9b15216f49a6b5b0bdade90a
+SHA256: cf88926e27ef61c097d26ca5833df8183914355d93ee1d5e3a9b072d5c2c474a
 Section: utils
 Priority: optional
-Homepage: https://github.com/MichaelSchaecher/btrfs-snapshots-manager
+Homepage: https:\/\/github.com\/MichaelSchaecher\/btrfs-snapshots-manager
 Description: Manage BTRFS snapshots
     Take a snapshots after install, updating or removing an application and
     on a regular basis using systemd timers. Leaving you with a way of restoring
     your system to a previous state.
-Build-Depends: debhelper, git-changelog, make (>= 4.1), dpkg-dev, bash (>= 4.4) btrfs-progs, bash (>= 4.4), coreutils, systemd
+Build-Depends: debhelper, git-changelog, make (>= 4.1), dpkg-dev, bash (>= 4.4)
 
 Package: ddns
 Version: 25.03.11-1036
@@ -36,21 +36,21 @@ Description: Dynamic DNS update script
 Build-Depends: debhelper (>= 9), make
 
 Package: dpkg-changelog
-Version: 25.03.12-1023
+Version: 25.03.12-bbd2805
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
-Installed-Size: 16
+Installed-Size: 12
 Depends: dpkg-dev, git
-Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-1023_amd64.deb
-Size: 3266
-MD5sum: 4c9831ea7ae0681f792c66d55a3f932e
-SHA1: 2be4747e2c83ff5fe8ec6fd909e02063e73d10f8
-SHA256: 5a65d8bf8eeb17ed612fcee0f8b1a8695e6c891cc403a1171ec469e66852a5da
+Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-bbd2805_amd64.deb
+Size: 3456
+MD5sum: f1beb34fbde2a11d05b4bef0836e9a53
+SHA1: c01f291fd2cfa3b86ece07cc3d62fe8c972fb7b9
+SHA256: 833c35e742756943152358904ce2fd65452e57f794d490051d9130c31bc756bb
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
-Description: Debian style changelog generator from
-    a git repository. Making it easier to build your Debian apt packages.
+Description: Git commit to Debian changelog -
+    using git commit data to create a Debian changelog entry.
 Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev
 
 Package: grub-theme-minimal
