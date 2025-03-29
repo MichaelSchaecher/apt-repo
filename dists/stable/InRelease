@@ -9,6 +9,7 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Repository for the apt-repo project
+<<<<<<< HEAD
 date: Sat, 29 Mar 2025 16:13:50 +0000
 MD5Sum:
  e36777ae3e63d8448c0167e421628203 5094 main/binary-amd64/Packages
@@ -38,4 +39,35 @@ CMsnFN/znZBToMCOTGDxuELE0Yl76RM+xvIUN4Xa3ou6UA6x86m7QtJ/Nc0P4s41
 DT/+3OVVpqU/ZaNeWAarQSLgTnnPlafPsfZ41t6oueI0IJ/IT8lOzFrcnYxzo/XW
 0SSdGP6aJ0tMQqgeTZyWGC47yIHq
 =qa3t
+=======
+date: Sat, 29 Mar 2025 17:41:43 +0000
+MD5Sum:
+ fad8c716706f6450f463904d55973bb5 5729 main/binary-amd64/Packages
+ a1f11ca5c7e573bfb2b94d5b9ad4db5a 1994 main/binary-amd64/Packages.gz
+ fad681f83e395b10545a0e95bdb821ef 2008 main/binary-amd64/Packages.xz
+SHA1:
+ 2860300a0ab822d7ca4c65d922640b6d0a91098c 5729 main/binary-amd64/Packages
+ 99d8a05860d6e25790b4a7450963ce721fdf823a 1994 main/binary-amd64/Packages.gz
+ 7ac526116b08442f083e7968d757d0e85a2056ad 2008 main/binary-amd64/Packages.xz
+SHA256:
+ aec53aa61b5e8d94abbf6da37768c7a891900fb3ab3d97ee92362620ff8ebce9 5729 main/binary-amd64/Packages
+ 8a80402806b8e74ec0a6f888678f72dbb7dbd60567711613c1acdc4eb5f83b49 1994 main/binary-amd64/Packages.gz
+ 734600cb7f1d183e2d3aba1e633b069d42a684e1cd40804333a3c7242217e2fc 2008 main/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQJSBAEBCgA8FiEE4MMh8RvkWf+0W6tKbYffkqcZSi0FAmfoMNceHG1pY2hhZWxs
+ZWVzY2hhZWNoZXJAZ21haWwuY29tAAoJEG2H35KnGUot+Q8P/Azk35AlPqB2g6kM
+lDDk2RCCmdpnBDTFrxqpRu9rddhIrNvco6nE2CG5jQaQuWQfjAoL2F3Zjpwu1GFQ
+Hty0HqRDVsDHEzPBTOfbwChD0O7PfqfXj1W+6gUmgC+S27cgoST09Au+V92oCW7y
+I1ykpvzEwGbD85Sa+n0NWs+NKMZJ8WWIJ4TSDSQLl0nXD61nasWNTMhphL6q620m
+XtLIVZJRrt8GteJKZIk5nT82kSGABH61vzWhSk3m+NA5SvQTR++9DI7qh9ZJgMi9
+2E2ycxPIJe6wnmt5OeI5orWv8mYX15hRHagVYo2reOq6zUhzxu1lmQpAaWQ8EysN
+t4XG2msdZDwHqKZKQJW5OX0MiVZ3IyXPnkFbEmFu3RfKYRLDu7XLRYL4LQ2HsUmP
+V7vixiQOJ+ooXtuIx2aewBUBh7uG4FsaCTZhM8gi5xZd/afRq8k2nVIYyTJnngnJ
+YGzdnRok4h4Z99oWQH1d8ACE6So1icko/aCvxmvTBi3RMRChg3PyIk/ynl0cZPe+
+RoEPtcqKUKtPY5XPxDFGkou+TdeNA/FngSAFys5tv49ZBayu4CdWtKNEbujnDRmq
+G9J5K2O1BndEZWamPsNwZK3P9lHsSBrNfkqYi222w/E/UbYPRO/qWzhPW72N1MFz
+Lghvmb7hisl9FieaYMJprV/VEP+i
+=HbKb
+>>>>>>> 5479aee (Update package version and metadata for grub-theme-minimal)
 -----END PGP SIGNATURE-----
