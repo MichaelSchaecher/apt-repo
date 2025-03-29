@@ -59,19 +59,22 @@ Description: Git commit to Debian changelog -
 Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev
 
 Package: grub-theme-minimal
-Version: 1.0.46-0
-Architecture: all
+Version: 25.03.12-dba4378
+Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
-Depends: grub2-common, grub-pc, grub-common
-Filename: pool/main/g/grub-theme-minimal/grub-theme-minimal_1.0.46-0_all.deb
-Size: 172160
-MD5sum: c69337dbf39a93cdc796f54f7e092ef0
-SHA1: c666bfc14c724e7c890500070cb1286112197ef9
-SHA256: 814fdf9ff89dadb490dff5547f5019622c5f5dc203a5579a627a17e2a7581834
-Section: boot
+Installed-Size: 644
+Depends: dpkg-dev, git
+Filename: pool/main/g/grub-theme-minimal/grub-theme-minimal_25.03.12-dba4378_amd64.deb
+Size: 182434
+MD5sum: ab4e542f41b1bafc29a7c87fd959eb63
+SHA1: a527d24a31752476afc6ead28523902d73c6982e
+SHA256: edd36c31286ee042238e8962bc163196ef79a8379527fb5ca21bfd8898d81ca7
+Section: utils
 Priority: optional
-Description: Minimal GRUB theme
- A minimal GRUB theme designed to keep the boot process simple and fast.
+Homepage: https://github.com/MichaelSchaecher/grub-theme-minimal
+Description: Minimal theme for Grub -
+    This package provides a minimal theme for Grub.
+Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev
 
 Package: hello-world
 Version: 1.0.1
