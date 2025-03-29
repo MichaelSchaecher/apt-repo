@@ -25,10 +25,10 @@ Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
 Installed-Size: 32
 Depends: dpkg-dev, git
 Filename: pool/main/d/ddns/ddns_25.03.12-79fc756_amd64.deb
-Size: 10760
-MD5sum: c1afbc130e0818c929148ee88a4a1dc2
-SHA1: 8860a32bfc40028d6f5c733554837c83ae103b0c
-SHA256: 93bc3c4eba7439fe80f5aab9b8194dc62470486efea6f90a73d4d59a0a7ac01b
+Size: 10762
+MD5sum: 9796738997469760543a3d5b0f452948
+SHA1: 685e110a9bae554629f57738608afaa5a11860f9
+SHA256: 2cb12753594d6d660facdd1990133d51ce22f4413a60716943833bd587de1d3b
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
