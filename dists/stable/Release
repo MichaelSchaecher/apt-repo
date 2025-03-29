@@ -6,32 +6,16 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Repository for the apt-repo project
-<<<<<<< HEAD
-date: Sat, 29 Mar 2025 16:13:50 +0000
-MD5Sum:
- e36777ae3e63d8448c0167e421628203 5094 main/binary-amd64/Packages
- 1c2b7878370d132ffc117c1bbb559760 1837 main/binary-amd64/Packages.gz
- 20d977d24118b15cec96718e595a1eea 1860 main/binary-amd64/Packages.xz
-SHA1:
- fae3d361aa6923f8e27faa2049c8eb6d0483e9ef 5094 main/binary-amd64/Packages
- 45db92c22ea24b4b9c7a23fd1bad3fe0662330ea 1837 main/binary-amd64/Packages.gz
- fa75cf37ef16ec6a1e78eb5108b2d00a2b797a88 1860 main/binary-amd64/Packages.xz
-SHA256:
- dd7a307c2af6d9f3b4508ba4cf923f66ef345bcf3c0a7fd6fcdf79cb2225a82f 5094 main/binary-amd64/Packages
- 30724ff3562d96c93639069f79ea53f02a7a8c6408b75ee06a74fb26af4648c4 1837 main/binary-amd64/Packages.gz
- c5643aef30de4911f383950006c671fc858589684bef846babac69a74f7d6c35 1860 main/binary-amd64/Packages.xz
-=======
-date: Sat, 29 Mar 2025 17:41:43 +0000
+date: Sat, 29 Mar 2025 17:44:03 +0000
 MD5Sum:
  fad8c716706f6450f463904d55973bb5 5729 main/binary-amd64/Packages
- a1f11ca5c7e573bfb2b94d5b9ad4db5a 1994 main/binary-amd64/Packages.gz
+ 394c87226d7eabd7299a8b81a32adbe0 1994 main/binary-amd64/Packages.gz
  fad681f83e395b10545a0e95bdb821ef 2008 main/binary-amd64/Packages.xz
 SHA1:
  2860300a0ab822d7ca4c65d922640b6d0a91098c 5729 main/binary-amd64/Packages
- 99d8a05860d6e25790b4a7450963ce721fdf823a 1994 main/binary-amd64/Packages.gz
+ 05e4ac051de24e7b6fc9edff15f1a84762b6954e 1994 main/binary-amd64/Packages.gz
  7ac526116b08442f083e7968d757d0e85a2056ad 2008 main/binary-amd64/Packages.xz
 SHA256:
  aec53aa61b5e8d94abbf6da37768c7a891900fb3ab3d97ee92362620ff8ebce9 5729 main/binary-amd64/Packages
- 8a80402806b8e74ec0a6f888678f72dbb7dbd60567711613c1acdc4eb5f83b49 1994 main/binary-amd64/Packages.gz
+ ac8b0ec959ad138714ee0bef9b713938bd3b0fbc339e3da8e50ff27adb21d78c 1994 main/binary-amd64/Packages.gz
  734600cb7f1d183e2d3aba1e633b069d42a684e1cd40804333a3c7242217e2fc 2008 main/binary-amd64/Packages.xz
->>>>>>> 5479aee (Update package version and metadata for grub-theme-minimal)
