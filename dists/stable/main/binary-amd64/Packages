@@ -25,33 +25,37 @@ Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
 Installed-Size: 32
 Depends: dpkg-dev, git
 Filename: pool/main/d/ddns/ddns_25.03.12-79fc756_amd64.deb
-Size: 10762
-MD5sum: 9796738997469760543a3d5b0f452948
-SHA1: 685e110a9bae554629f57738608afaa5a11860f9
-SHA256: 2cb12753594d6d660facdd1990133d51ce22f4413a60716943833bd587de1d3b
+Size: 10998
+MD5sum: db5e10de65df381efcceeae0fa36af46
+SHA1: 19bea6473dcffcb78ac6a71d79d32631f7f6b7ae
+SHA256: e2d4778d76a383608b38ab6fdc95b1e875e0fe17341dde5483ba318ce952bf0e
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
-Description: Update Cloudflare/DuckDNS DynamicDNS records -
-    keeping your DNS records up to date with your current IP address.
+Description: Manage BTRFS snapshots simply -
+    If you are using the BTRFS filesystem the way it was intended.
+    NOTE: This package is not compatible with Timeshift.
 Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev
 
 Package: dpkg-changelog
-Version: 25.03.12-5adac85
+Version: 25.03.12-bad2929
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
 Installed-Size: 16
 Depends: dpkg-dev, git
-Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-5adac85_amd64.deb
-Size: 3530
-MD5sum: d587b3f10625c74166500b8cdf1fe4e6
-SHA1: 836aa9c1007253cbb6badd8726e0bab0cfcfd48e
-SHA256: 6d8627532ae74d3668821f311e132991c0f0949c2288a4f1896d2c751180c884
+Filename: pool/main/d/dpkg-changelog/dpkg-changelog_25.03.12-bad2929_amd64.deb
+Size: 3732
+MD5sum: 6f1978486046d0ea3dd287187ab0facc
+SHA1: 1dff6c15e60c3a6902060384ffc0e87650b023a7
+SHA256: 1dfa1301526bd96278d7e016dbc99c71281a87574689d9bc40410dfc89bccd05
 Section: utils
 Priority: optional
 Homepage: https://github.com/MichaelSchaecher/dpkg-changelog
 Description: Git commit to Debian changelog -
-    using git commit data to create a Debian changelog entry.
+    Use the git commit log to generate a Debian changelog
+    file. This is useful for projects that use git as their
+    version control system and want to generate a Debian
+    package.
 Build-Depends: debhelper (>= 11), git, make (>= 4.1), dpkg-dev
 
 Package: grub-theme-minimal
@@ -59,7 +63,7 @@ Version: 1.0.46-0
 Architecture: all
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
 Depends: grub2-common, grub-pc, grub-common
-Filename: pool/main/g/grub-theme-miminal/grub-theme-minimal_1.0.46-0_all.deb
+Filename: pool/main/g/grub-theme-minimal/grub-theme-minimal_1.0.46-0_all.deb
 Size: 172160
 MD5sum: c69337dbf39a93cdc796f54f7e092ef0
 SHA1: c666bfc14c724e7c890500070cb1286112197ef9
