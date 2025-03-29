@@ -1,21 +1,21 @@
 Package: btrfs-snapshots-manager
-Version: 25.03.12-1218
+Version: 25.03.12-f7380dd
 Architecture: amd64
 Maintainer: Michael Schaecher <MichaelLeeSchaecher@gmail.com>
 Installed-Size: 28
 Depends: btrfs-progs, bash (>= 4.4), coreutils, systemd
-Filename: pool/main/b/btrfs-snapshots-manager/btrfs-snapshots-manager_25.03.12-1218_amd64.deb
-Size: 5898
-MD5sum: 1c562cdde271f55977210bda6017f7df
-SHA1: 717ba622f242e1af9b15216f49a6b5b0bdade90a
-SHA256: cf88926e27ef61c097d26ca5833df8183914355d93ee1d5e3a9b072d5c2c474a
+Conflicts: timeshift
+Filename: pool/main/b/btrfs-snapshots-manager/btrfs-snapshots-manager_25.03.12-f7380dd_amd64.deb
+Size: 6826
+MD5sum: ac2051ff2cb0e8ad961513c35e67e8d3
+SHA1: b470824307aa07ced0b896513d55192d037680ec
+SHA256: d01dd16ef3a940069b2f25dc944cff0fa8f57ffd936e01d8523a0309cae11f46
 Section: utils
 Priority: optional
-Homepage: https:\/\/github.com\/MichaelSchaecher\/btrfs-snapshots-manager
-Description: Manage BTRFS snapshots
-    Take a snapshots after install, updating or removing an application and
-    on a regular basis using systemd timers. Leaving you with a way of restoring
-    your system to a previous state.
+Homepage: https://github.com/MichaelSchaecher/btrfs-snapshots-manager
+Description: Manage BTRFS snapshots simply -
+    If you are using the BTRFS filesystem the way it was intended.
+    NOTE: This package is not compatible with Timeshift.
 Build-Depends: debhelper, git-changelog, make (>= 4.1), dpkg-dev, bash (>= 4.4)
 
 Package: ddns
